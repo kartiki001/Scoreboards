@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.scoreb{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+.New{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.New1{
+    display: flex;
+    justify-content: center;
+}
+.h3{
+    display: flex;
+    justify-content: center;
+}
